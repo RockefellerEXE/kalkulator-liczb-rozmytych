@@ -1,0 +1,10 @@
+C:\Users\adamw\Desktop\kalkulator liczb rozmytych\LICZBY ROZMYTE\bin\Debug\LICZBY ROZMYTE.exe.config
+C:\Users\adamw\Desktop\kalkulator liczb rozmytych\LICZBY ROZMYTE\bin\Debug\LICZBY ROZMYTE.exe
+C:\Users\adamw\Desktop\kalkulator liczb rozmytych\LICZBY ROZMYTE\bin\Debug\LICZBY ROZMYTE.pdb
+C:\Users\adamw\Desktop\kalkulator liczb rozmytych\LICZBY ROZMYTE\obj\Debug\LICZBY ROZMYTE.csprojAssemblyReference.cache
+C:\Users\adamw\Desktop\kalkulator liczb rozmytych\LICZBY ROZMYTE\obj\Debug\LICZBY_ROZMYTE.Form1.resources
+C:\Users\adamw\Desktop\kalkulator liczb rozmytych\LICZBY ROZMYTE\obj\Debug\LICZBY_ROZMYTE.Properties.Resources.resources
+C:\Users\adamw\Desktop\kalkulator liczb rozmytych\LICZBY ROZMYTE\obj\Debug\LICZBY ROZMYTE.csproj.GenerateResource.cache
+C:\Users\adamw\Desktop\kalkulator liczb rozmytych\LICZBY ROZMYTE\obj\Debug\LICZBY ROZMYTE.csproj.CoreCompileInputs.cache
+C:\Users\adamw\Desktop\kalkulator liczb rozmytych\LICZBY ROZMYTE\obj\Debug\LICZBY ROZMYTE.exe
+C:\Users\adamw\Desktop\kalkulator liczb rozmytych\LICZBY ROZMYTE\obj\Debug\LICZBY ROZMYTE.pdb
